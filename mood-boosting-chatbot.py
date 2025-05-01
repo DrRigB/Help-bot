@@ -5,8 +5,7 @@ import openai
 import customtkinter as ctk
 
 # Hard-coded API Key
-openai_api_key = "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"
-
+openai_api_key = YourAPIKEY
 # Set the API key for OpenAI
 openai.api_key = openai_api_key
 
